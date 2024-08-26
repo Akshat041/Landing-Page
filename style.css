@@ -132,3 +132,22 @@ header {
   color: #666;
   text-align: center;
 }
+
+/* Testimonial */
+.testimonial {
+  padding: 100px;
+  background: #e5e7eb;
+}
+
+.testimonial p {
+  font-size: 36px;
+  font-weight: 300;
+  color: #1f2937;
+  margin-bottom: 20px;
+}
+
+.testimonial .quote-by {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: right;
+}
